@@ -102,4 +102,8 @@ Once the circuit and code are uploaded in Tinkercad:
 
 The Push Button Counter in Tinkercad is a beginner-friendly project that helps you understand digital input, button debouncing, and serial output using Arduino. It is easy to build, simulate, and expand. This project also lays the foundation for more advanced applications involving user input and display systems.
 
+#output
+
+![Image](https://github.com/user-attachments/assets/602a8bea-c0dc-4ccb-b162-bc2039d99a72)
+
 
